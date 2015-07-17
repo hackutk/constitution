@@ -1,2 +1,0 @@
-# constitution
-HackUTK Constitution

@@ -1,2 +1,7 @@
-# constitution
-HackUTK Constitution
+# HackUTK Constitution
+
+###Authors:
+    - Benjamin Brock
+    - Joseph Connor
+    - Jared Smith
+
